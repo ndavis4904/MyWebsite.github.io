@@ -1,5 +1,5 @@
 title: My Website
-description: >- # this means to ignore newlines until "baseurl:"
+description: # this means to ignore newlines until "baseurl:"
   This is the start of my first website. Where I tell you more information
   about me then you would ever want to read through.
 
@@ -21,6 +21,14 @@ footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
+
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+    - Getting Started: "getstarted"                         # ADD THIS LINK
+  Author's home: "http://deanattali.com"
 
 # Welcome to Jekyll!
 #
@@ -49,10 +57,5 @@ gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
 
 theme: jekyll-theme-slate
