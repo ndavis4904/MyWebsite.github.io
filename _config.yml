@@ -21,15 +21,12 @@ footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
-
-navbar-links:
-  About Me: "aboutme"
-  Code Through: "CodeThrough.html"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - Getting Started: "getstarted"                         # ADD THIS LINK
-  Author's home: "http://deanattali.com"
+  
+navbar:
+  title: "My Website"
+  left:
+    -text: "Code Through Project"
+     href: CodeThrough.html
 
 # Welcome to Jekyll!
 #
