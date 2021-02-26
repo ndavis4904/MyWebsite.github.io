@@ -25,8 +25,8 @@ footer-link-col: "#404040"
 navbar:
   title: "My Website"
   left:
-    -text: "Code Through Project"
-     href: CodeThrough.html
+    text: "Code Through Project"
+    href: CodeThrough.html
 
 # Welcome to Jekyll!
 #
