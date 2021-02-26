@@ -8,10 +8,11 @@ title: 'Nice Layout'
 
 ![]({{site.url}}/assets/img/hey-world.png)  
 
-
-<a href = CodeThrough.html>
-          
+<a href="https://github.com/ndavis4904/MyWebsite.github.io/blob/master/CodeThrough.html" target = "_blank"> 
+          <button onclick="href=''"> Code Through <i class="fa fa-github 2x" id="github_icon"></i> </button>
 </a>
+          
+          
 
 ## Lorem Ipsum
 
