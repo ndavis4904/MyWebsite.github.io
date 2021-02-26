@@ -24,8 +24,7 @@ footer-link-col: "#404040"
 
 navbar-links:
   About Me: "aboutme"
-  -text: "Code Through"
-   href: CodeThrough.html
+  Code Through: "CodeThrough.html"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
